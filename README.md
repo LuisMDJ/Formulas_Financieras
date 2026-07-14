@@ -58,7 +58,7 @@ Calculadora-Financiera/
 
 ---
 
-## ⚙️ Instalación y ejecución
+## Instalación y ejecución
 
 ### 1. Clonar o ubicar el proyecto
 
